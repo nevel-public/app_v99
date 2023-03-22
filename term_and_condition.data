@@ -74,8 +74,8 @@ font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></b></p>
 font-family:&quot;Verdana&quot;,sans-serif">Để được giải thích về cách
 chúng tôi thu thập, sử dụng và tiết lộ thông tin người dùng, vui lòng tham khảo</span><span lang="vi" style="font-size:10.5pt;line-height:115%;font-family:&quot;Verdana&quot;,sans-serif;
 color:blue"> </span><span lang="vi" style="font-size:10.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,sans-serif">Chính sách bảo mật<span style="color:#414141">
-trong [</span><span style="color:blue">Chính sách bảo mật liên kết</span><span style="color:#414141">]. Bạn thừa nhận và đồng ý rằng việc bạn sử dụng Dịch vụ
+font-family:&quot;Verdana&quot;,sans-serif">Chính sách bảo mật<span>
+trong [</span><span style="color:blue">Chính sách bảo mật liên kết</span><span>]. Bạn thừa nhận và đồng ý rằng việc bạn sử dụng Dịch vụ
 phải tuân theo Chính sách bảo mật của chúng tôi và chúng tôi có thể thu thập, sử
 dụng và/hoặc tiết lộ thông tin của bạn (bao gồm bất kỳ dữ liệu cá nhân nào bạn
 cung cấp cho chúng tôi) theo Chính sách bảo mật.</span></span></p>
@@ -174,26 +174,26 @@ font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
 font-family:&quot;Verdana&quot;,sans-serif">Ví V99 cho phép bạn:</span></p>
 
 <ol style="margin-top:0in" start="1" type="1">
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal" ><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Tạo địa chỉ ví và khóa
      riêng liên quan mà bạn có thể sử dụng để gửi và nhận tài sản kỹ thuật số;</span></li>
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal" ><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Duyệt và truy cập các ứng
      dụng phi tập trung của bên thứ ba ("DApp") và các sàn giao dịch
      phi tập trung của bên thứ ba ("DEX") thông qua trình duyệt web của
      ứng dụng di động;</span></li>
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal" ><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Trao đổi/giao dịch tài
      sản kỹ thuật số thông qua chức năng DApp được cung cấp bởi các nhà cung cấp
      dịch vụ bên thứ ba;</span></li>
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal" ><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Giữ một số tài sản kỹ
      thuật số nhất định trong mạng "Bằng chứng cổ phần" (PoS) của bên
      thứ ba thông qua Dịch vụ cam kết;</span></li>
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal" ><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Xem thông tin về giá
      tài sản kỹ thuật số được cung cấp bởi các nhà cung cấp dịch vụ bên thứ ba;</span></li>
- <li class="MsoNormal" style="color:#414141"><span lang="vi" style="font-size:10.5pt;
+ <li class="MsoNormal"><span lang="vi" style="font-size:10.5pt;
      line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">Truyền phát dữ liệu
      giao dịch tài sản kỹ thuật số đến các blockchain khác nhau được hỗ trợ bởi
      ví V99 mà không cần bạn tải xuống hoặc cài đặt phần mềm dựa trên blockchain
@@ -330,8 +330,7 @@ font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
 <p class="MsoNormal"><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
 
-<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
-color:#414141">TÍNH CHÍNH XÁC CỦA THÔNG TIN DO NGƯỜI DÙNG CUNG CẤP</span></b></p>
+<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%">TÍNH CHÍNH XÁC CỦA THÔNG TIN DO NGƯỜI DÙNG CUNG CẤP</span></b></p>
 
 <p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></b></p>
@@ -679,8 +678,7 @@ font-family:&quot;Verdana&quot;,sans-serif;color:red">&nbsp;</span></p>
 <p class="MsoNormal"><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif;color:red">&nbsp;</span></p>
 
-<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
-color:#414141">BỒI THƯỜNG</span></b></p>
+<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%">BỒI THƯỜNG</span></b></p>
 
 <p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></b></p>
@@ -721,8 +719,7 @@ font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
 <p class="MsoNormal"><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
 
-<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
-color:#414141">LƯU Ý CHO NGƯỜI DÙNG QUỐC TẾ</span></b></p>
+<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%">LƯU Ý CHO NGƯỜI DÙNG QUỐC TẾ</span></b></p>
 
 <p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></b></p>
@@ -735,8 +732,7 @@ color:red">luật pháp Hoa Kỳ</span><span lang="vi" style="font-size:10.5pt;
 line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">, vui lòng lưu
 ý rằng chúng tôi không thu thập hoặc xử lý dữ liệu cá nhân của bạn trừ khi được
 quy định khác trong </span><span lang="vi" style="font-size:10.5pt;line-height:
-115%;font-family:&quot;Verdana&quot;,sans-serif;color:blue">Chính sách bảo mật</span><span lang="vi" style="font-size:10.5pt;line-height:115%;font-family:&quot;Verdana&quot;,sans-serif;
-color:#414141">.</span></p>
+115%;font-family:&quot;Verdana&quot;,sans-serif;color:blue">Chính sách bảo mật</span><span lang="vi" style="font-size:10.5pt;line-height:115%;font-family:&quot;Verdana&quot;,sans-serif">.</span></p>
 
 <p class="MsoNormal"><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">&nbsp;</span></p>
