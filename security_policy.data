@@ -1,41 +1,39 @@
 <html><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="Generator" content="Microsoft Word 15 (filtered)">
-    <style>
-        <!--
-        /* Font Definitions */
-        @font-face
-        {font-family:"Cambria Math";
-            panose-1:2 4 5 3 5 4 6 3 2 4;}
-        @font-face
-        {font-family:Verdana;
-            panose-1:2 11 6 4 3 5 4 4 2 4;}
-        /* Style Definitions */
-        p.MsoNormal, li.MsoNormal, div.MsoNormal
-        {margin:0in;
-            line-height:115%;
-            font-size:11pt;
-            font-family:"Arial",sans-serif;}
-        .MsoChpDefault
-        {font-family:"Arial",sans-serif;}
-        .MsoPapDefault
-        {line-height:115%;}
-        @page WordSection1
-        {size:595.45pt 841.7pt;
-            margin:1.0in 1.0in 1.0in 1.0in;}
-        div.WordSection1
-        {page:WordSection1;}
-        /* List Definitions */
-        ol
-        {margin-bottom:0in;}
-        ul
-        {margin-bottom:0in;}
-        body {background-color: #1F2022;color: white;
-        overflow-x: hidden;
-width: 100vw;}
-        -->
-    </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Generator" content="Microsoft Word 15 (filtered)">
+  <style>
+    <!--
+    /* Font Definitions */
+    @font-face
+    {font-family:"Cambria Math";
+      panose-1:2 4 5 3 5 4 6 3 2 4;}
+    @font-face
+    {font-family:Verdana;
+      panose-1:2 11 6 4 3 5 4 4 2 4;}
+    /* Style Definitions */
+    p.MsoNormal, li.MsoNormal, div.MsoNormal
+    {margin:0in;
+      line-height:115%;
+      font-size:11pt;
+      font-family:"Arial",sans-serif;}
+    .MsoChpDefault
+    {font-family:"Arial",sans-serif;}
+    .MsoPapDefault
+    {line-height:115%;}
+    @page WordSection1
+    {size:595.45pt 841.7pt;
+      margin:1.0in 1.0in 1.0in 1.0in;}
+    div.WordSection1
+    {page:WordSection1;}
+    /* List Definitions */
+    ol
+    {margin-bottom:0in;}
+    ul
+    {margin-bottom:0in;}
+    body {overflow-x: hidden; background-color: #1F2022;color: white}
+    -->
+  </style>
 </head><body>
 <p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
 font-family:&quot;Verdana&quot;,sans-serif">CHÚNG TÔI THU THẬP NHỮNG GÌ</span></b></p>
@@ -43,36 +41,36 @@ font-family:&quot;Verdana&quot;,sans-serif">CHÚNG TÔI THU THẬP NHỮNG GÌ</
 <p>Chúng tôi có được thông tin về bạn theo nhiều cách.</p>
 <p>Thông tin bạn cung cấp cho chúng tôi. Thông tin chúng tôi thu thập từ bạn có thể bao gồm:</p>
 <ul>
-    <li>
-        <p>Thông tin nhận dạng, chẳng hạn như: tên, họ, tên người dùng hoặc số nhận dạng tương tự, tiêu đề, ngày sinh và giới tính của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin liên lạc, chẳng hạn như địa chỉ bưu chính, địa chỉ email và số điện thoại của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin hồ sơ, chẳng hạn như tên người dùng và mật khẩu, sở thích, sở thích, phản hồi và phản hồi khảo sát của bạn;</p>
-    </li>
-    <li>
-        <p>Phản hồi và thông tin liên lạc, chẳng hạn như thông tin bạn cung cấp trong phản hồi khảo sát, khi bạn tham gia vào các hoạt động nghiên cứu thị trường, báo cáo các vấn đề dịch vụ, nhận hỗ trợ khách hàng hoặc liên lạc với chúng tôi;</p>
-    </li>
-    <li>
-        <p>Thông tin tài chính, chẳng hạn như thẻ tín dụng hoặc chi tiết thẻ thanh toán khác của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin giao dịch, chẳng hạn như chi tiết mua hàng và chi tiết thanh toán mà bạn thực hiện thông qua Dịch vụ;</p>
-    </li>
-    <li>
-        <p>Thông tin sử dụng, chẳng hạn như thông tin về cách bạn sử dụng Dịch vụ và cách bạn tương tác với chúng tôi;</p>
-    </li>
-    <li>
-        <p>Thông tin tiếp thị, chẳng hạn như sở thích của bạn để nhận thông tin liên lạc tiếp thị và chi tiết về cách bạn tương tác với thông tin liên lạc tiếp thị;</p>
-    </li>
-    <li>
-        <p>Thông tin tài chính, chẳng hạn như số tài khoản ngân hàng và số định tuyến ngân hàng; Khối lượng nắm giữ tài sản tài chính; Và</p>
-    </li>
-    <li>
-        <p>Thông tin kỹ thuật như địa chỉ ví Ethereum của bạn, các API - khóa và thông tin mạng về giao dịch</p>
-    </li>
+  <li>
+    <p>Thông tin nhận dạng, chẳng hạn như: tên, họ, tên người dùng hoặc số nhận dạng tương tự, tiêu đề, ngày sinh và giới tính của bạn;</p>
+  </li>
+  <li>
+    <p>Thông tin liên lạc, chẳng hạn như địa chỉ bưu chính, địa chỉ email và số điện thoại của bạn;</p>
+  </li>
+  <li>
+    <p>Thông tin hồ sơ, chẳng hạn như tên người dùng và mật khẩu, sở thích, sở thích, phản hồi và phản hồi khảo sát của bạn;</p>
+  </li>
+  <li>
+    <p>Phản hồi và thông tin liên lạc, chẳng hạn như thông tin bạn cung cấp trong phản hồi khảo sát, khi bạn tham gia vào các hoạt động nghiên cứu thị trường, báo cáo các vấn đề dịch vụ, nhận hỗ trợ khách hàng hoặc liên lạc với chúng tôi;</p>
+  </li>
+  <li>
+    <p>Thông tin tài chính, chẳng hạn như thẻ tín dụng hoặc chi tiết thẻ thanh toán khác của bạn;</p>
+  </li>
+  <li>
+    <p>Thông tin giao dịch, chẳng hạn như chi tiết mua hàng và chi tiết thanh toán mà bạn thực hiện thông qua Dịch vụ;</p>
+  </li>
+  <li>
+    <p>Thông tin sử dụng, chẳng hạn như thông tin về cách bạn sử dụng Dịch vụ và cách bạn tương tác với chúng tôi;</p>
+  </li>
+  <li>
+    <p>Thông tin tiếp thị, chẳng hạn như sở thích của bạn để nhận thông tin liên lạc tiếp thị và chi tiết về cách bạn tương tác với thông tin liên lạc tiếp thị;</p>
+  </li>
+  <li>
+    <p>Thông tin tài chính, chẳng hạn như số tài khoản ngân hàng và số định tuyến ngân hàng; Khối lượng nắm giữ tài sản tài chính; Và</p>
+  </li>
+  <li>
+    <p>Thông tin kỹ thuật như địa chỉ ví Ethereum của bạn, các API - khóa và thông tin mạng về giao dịch</p>
+  </li>
 </ul>
 <p><br></p>
 <p>Thông tin chúng tôi nhận được từ các bên khác. Chúng tôi có thể nhận được thông tin về bạn từ các nguồn bên thứ ba khác và chúng tôi có thể thêm thông tin này vào thông tin của bạn trong quá trình bạn sử dụng Dịch vụ. Thông tin này có thể bao gồm:</p>
@@ -96,18 +94,18 @@ font-family:&quot;Verdana&quot;,sans-serif">SỬ DỤNG THÔNG TIN CÁ NHÂN</sp
 115%;font-family:&quot;Verdana&quot;,sans-serif">Nhằm mục đích cung cấp dịch vụ của chúng tôi</span></i></b></p>
 <p>Chúng tôi sẽ sử dụng thông tin cá nhân của bạn theo các cách sau:</p>
 <ul>
-    <li>
-        <p>Cho phép bạn truy cập và sử dụng Dịch vụ</p>
-    </li>
-    <li>
-        <p>Cung cấp và cung cấp các sản phẩm và dịch vụ mà bạn có thể yêu cầu.</p>
-    </li>
-    <li>
-        <p>Xử lý và hoàn thành giao dịch và gửi cho bạn thông tin liên quan, bao gồm xác nhận mua hàng và hóa đơn</p>
-    </li>
-    <li>
-        <p>Gửi thông tin, bao gồm xác nhận, thông báo kỹ thuật, cập nhật, cảnh báo bảo mật, thông báo hỗ trợ và quản lý.</p>
-    </li>
+  <li>
+    <p>Cho phép bạn truy cập và sử dụng Dịch vụ</p>
+  </li>
+  <li>
+    <p>Cung cấp và cung cấp các sản phẩm và dịch vụ mà bạn có thể yêu cầu.</p>
+  </li>
+  <li>
+    <p>Xử lý và hoàn thành giao dịch và gửi cho bạn thông tin liên quan, bao gồm xác nhận mua hàng và hóa đơn</p>
+  </li>
+  <li>
+    <p>Gửi thông tin, bao gồm xác nhận, thông báo kỹ thuật, cập nhật, cảnh báo bảo mật, thông báo hỗ trợ và quản lý.</p>
+  </li>
 </ul>
 <p><br></p>
 <p class="MsoNormal"><b><i><span lang="vi" style="font-size:10.5pt;line-height:
@@ -135,18 +133,18 @@ font-family:&quot;Verdana&quot;,sans-serif">CHIA SẺ THÔNG TIN CÁ NHÂN</span
 <p>Chuyển nhượng kinh doanh - Chúng tôi có thể chia sẻ thông tin cá nhân khi chúng tôi thực hiện các giao dịch kinh doanh hoặc đàm phán các giao dịch kinh doanh liên quan đến việc bán hoặc chuyển giao tất cả hoặc một phần doanh nghiệp, tài sản của chúng tôi. Các giao dịch này có thể bao gồm bất kỳ giao dịch hoặc thủ tục sáp nhập, tài chính, mua lại hoặc phá sản nào.</p>
 <p>Tuân thủ pháp luật và thực thi pháp luật; Bảo vệ và an toàn - Chúng tôi có thể chia sẻ thông tin cá nhân cho các mục đích pháp lý, bảo vệ và bảo mật.</p>
 <ul>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để tuân thủ luật pháp, bao gồm các yêu cầu KYC và AML.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để đáp ứng các yêu cầu hợp pháp và quy trình pháp lý.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để bảo vệ quyền và tài sản của Công ty, đại lý, khách hàng và những người khác. Điều này bao gồm việc thực thi các thỏa thuận, chính sách và điều khoản sử dụng của chúng tôi.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin trong trường hợp khẩn cấp. Điều này bao gồm bảo vệ sự an toàn của nhân viên và đại lý, khách hàng hoặc bất kỳ ai của chúng tôi.</p>
-    </li>
+  <li>
+    <p>Chúng tôi có thể chia sẻ thông tin để tuân thủ luật pháp, bao gồm các yêu cầu KYC và AML.</p>
+  </li>
+  <li>
+    <p>Chúng tôi có thể chia sẻ thông tin để đáp ứng các yêu cầu hợp pháp và quy trình pháp lý.</p>
+  </li>
+  <li>
+    <p>Chúng tôi có thể chia sẻ thông tin để bảo vệ quyền và tài sản của Công ty, đại lý, khách hàng và những người khác. Điều này bao gồm việc thực thi các thỏa thuận, chính sách và điều khoản sử dụng của chúng tôi.</p>
+  </li>
+  <li>
+    <p>Chúng tôi có thể chia sẻ thông tin trong trường hợp khẩn cấp. Điều này bao gồm bảo vệ sự an toàn của nhân viên và đại lý, khách hàng hoặc bất kỳ ai của chúng tôi.</p>
+  </li>
 </ul>
 <p>Tư vấn viên chuyên nghiệp và nhà cung cấp dịch vụ - Chúng tôi có thể chia sẻ thông tin với những nhân viên, đối tác của chúng tôi. Những người nhận thông tin này có thể bao gồm các công ty và cá nhân bên thứ ba quản lý và cung cấp dịch vụ thay mặt chúng tôi (như xử lý thanh toán hóa đơn và thẻ tín dụng, hỗ trợ khách hàng, lưu trữ, gửi email và dịch vụ quản lý cơ sở dữ liệu), cũng như luật sư, ngân hàng, kiểm toán viên và công ty bảo hiểm.</p>
 <p>Ngoài ra, bạn có thể cho phép chúng tôi chia sẻ thông tin cá nhân với các công ty hoặc tổ chức khác mà bạn chọn. Những mục đích sử dụng này sẽ phải tuân theo chính sách bảo mật của một hoặc nhiều bên liên quan.</p>
