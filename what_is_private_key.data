@@ -1,40 +1,96 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bài viết giới thiệu</title>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-        }
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="Generator" content="Microsoft Word 15 (filtered)">
+        <style>
+            <!--
+            /* Font Definitions */
+            @font-face {
+                font-family: "Cambria Math";
+                panose-1: 2 4 5 3 5 4 6 3 2 4;
+            }
 
-        h1 {
-            color: white;
-        }
+            @font-face {
+                font-family: Verdana;
+                panose-1: 2 11 6 4 3 5 4 4 2 4;
+            }
 
-        p {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
+            /* Style Definitions */
+            p.MsoNormal,
+            li.MsoNormal,
+            div.MsoNormal {
+                margin: 0in;
+                line-height: 115%;
+                font-size: 11pt;
+                font-family: "Arial", sans-serif;
+            }
+
+            .MsoChpDefault {
+                font-family: "Arial", sans-serif;
+            }
+
+            .MsoPapDefault {
+                line-height: 115%;
+            }
+
+            @page WordSection1 {
+                size: 595.45pt 841.7pt;
+                margin: 1.0in 1.0in 1.0in 1.0in;
+            }
+
+            div.WordSection1 {
+                page: WordSection1;
+            }
+
+            /* List Definitions */
+            ol {
+                margin-bottom: 0in;
+            }
+
+            ul {
+                margin-bottom: 0in;
+            }
+
+            body {
+                background-color: #1F2022;
+                color: white
+            }
+            -->
+        </style>
+    </head>
 
 <body>
     <h1>Khóa Riêng Tư là gì?</h1>
-    <p>Trong lĩnh vực công nghệ blockchain, khóa riêng đóng vai trò là một thành phần mật mã quan trọng, cấp quyền truy cập và kiểm soát đối với tài sản tiền điện tử của một cá nhân được lưu trữ trong ví blockchain. Đây là một chuỗi số và chữ cái dài được tạo ngẫu nhiên, hoạt động như tương đương kỹ thuật số của khóa vật lý. Cũng như một chiếc khóa vật lý cần thiết để mở cửa, khóa riêng là cần thiết để ủy quyền giao dịch và quản lý quỹ trong ví blockchain.</p>
-    <p>Tương tự như mật khẩu, khóa riêng phải được giữ bí mật và không bao giờ được chia sẻ với bất kỳ ai. Nếu khóa riêng rơi vào tay kẻ xấu, nó có thể dẫn đến truy cập trái phép vào số tiền điện tử của bạn, có thể gây mất tiền của bạn.</p>
+    <p>Trong lĩnh vực công nghệ blockchain, khóa riêng đóng vai trò là một thành phần mật mã quan trọng, cấp quyền truy
+        cập và kiểm soát đối với tài sản tiền điện tử của một cá nhân được lưu trữ trong ví blockchain. Đây là một chuỗi
+        số và chữ cái dài được tạo ngẫu nhiên, hoạt động như tương đương kỹ thuật số của khóa vật lý. Cũng như một chiếc
+        khóa vật lý cần thiết để mở cửa, khóa riêng là cần thiết để ủy quyền giao dịch và quản lý quỹ trong ví
+        blockchain.</p>
+    <p>Tương tự như mật khẩu, khóa riêng phải được giữ bí mật và không bao giờ được chia sẻ với bất kỳ ai. Nếu khóa
+        riêng rơi vào tay kẻ xấu, nó có thể dẫn đến truy cập trái phép vào số tiền điện tử của bạn, có thể gây mất tiền
+        của bạn.</p>
     <h2>Tầm Quan Trọng của Việc Bảo Vệ Khóa Riêng</h2>
-    <p>Do vai trò quan trọng của khóa riêng trong việc bảo mật tiền điện tử, việc thực hiện các biện pháp thích hợp để bảo vệ chúng là điều tối quan trọng. Dưới đây là một số bước cần thiết để bảo vệ khóa riêng của bạn:</p>
+    <p>Do vai trò quan trọng của khóa riêng trong việc bảo mật tiền điện tử, việc thực hiện các biện pháp thích hợp để
+        bảo vệ chúng là điều tối quan trọng. Dưới đây là một số bước cần thiết để bảo vệ khóa riêng của bạn:</p>
     <ul>
-        <li>Không bao giờ chia sẻ khóa riêng của bạn: Hãy giữ khóa riêng của bạn bí mật và không bao giờ chia sẻ chúng với bất kỳ ai, bao gồm bạn bè, gia đình, hoặc thậm chí cả đại diện hỗ trợ khách hàng từ các sàn giao dịch tiền điện tử hoặc nhà cung cấp ví.</li>
-        <li>Lưu trữ khóa riêng của bạn một cách an toàn: Tránh lưu trữ khóa riêng của bạn trên máy tính hoặc thiết bị di động của bạn, vì các thiết bị này dễ bị phần mềm độc hại và tấn công mạng. Thay vào đó, hãy xem xét sử dụng ví phần cứng, là các thiết bị vật lý chuyên dụng được thiết kế để lưu trữ khóa riêng một cách an toàn.</li>
-        <li>Tạo mật khẩu mạnh: Sử dụng mật khẩu mạnh và duy nhất cho ví blockchain của bạn và tránh sử dụng thông tin dễ đoán như ngày sinh hoặc tên.</li>
-        <li>Sao lưu khóa riêng của bạn thường xuyên: Tạo sao lưu thường xuyên cho khóa riêng của bạn và lưu trữ chúng an toàn ngoại tuyến. Điều này đảm bảo rằng bạn có kế hoạch khôi phục trong trường hợp phương thức lưu trữ chính của bạn bị mất hoặc hư hỏng.</li>
+        <li>Không bao giờ chia sẻ khóa riêng của bạn: Hãy giữ khóa riêng của bạn bí mật và không bao giờ chia sẻ chúng
+            với bất kỳ ai, bao gồm bạn bè, gia đình, hoặc thậm chí cả đại diện hỗ trợ khách hàng từ các sàn giao dịch
+            tiền điện tử hoặc nhà cung cấp ví.</li>
+        <li>Lưu trữ khóa riêng của bạn một cách an toàn: Tránh lưu trữ khóa riêng của bạn trên máy tính hoặc thiết bị di
+            động của bạn, vì các thiết bị này dễ bị phần mềm độc hại và tấn công mạng. Thay vào đó, hãy xem xét sử dụng
+            ví phần cứng, là các thiết bị vật lý chuyên dụng được thiết kế để lưu trữ khóa riêng một cách an toàn.</li>
+        <li>Tạo mật khẩu mạnh: Sử dụng mật khẩu mạnh và duy nhất cho ví blockchain của bạn và tránh sử dụng thông tin dễ
+            đoán như ngày sinh hoặc tên.</li>
+        <li>Sao lưu khóa riêng của bạn thường xuyên: Tạo sao lưu thường xuyên cho khóa riêng của bạn và lưu trữ chúng an
+            toàn ngoại tuyến. Điều này đảm bảo rằng bạn có kế hoạch khôi phục trong trường hợp phương thức lưu trữ chính
+            của bạn bị mất hoặc hư hỏng.</li>
     </ul>
-    <p>Hãy nhớ rằng, sự an toàn của tài sản tiền điện tử của bạn phần lớn phụ thuộc vào việc bảo vệ khóa riêng của bạn. Bằng cách tuân theo các hướng dẫn này và thực hiện các biện pháp chủ động để bảo vệ chúng, bạn có thể giảm thiểu rủi ro truy cập trái phép và giữ cho tiền của mình an toàn.</p>
+    <p>Hãy nhớ rằng, sự an toàn của tài sản tiền điện tử của bạn phần lớn phụ thuộc vào việc bảo vệ khóa riêng của bạn.
+        Bằng cách tuân theo các hướng dẫn này và thực hiện các biện pháp chủ động để bảo vệ chúng, bạn có thể giảm thiểu
+        rủi ro truy cập trái phép và giữ cho tiền của mình an toàn.</p>
 </body>
 
 </html>
