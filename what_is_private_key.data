@@ -63,7 +63,7 @@
     </head>
 
 <body>
-    <h1>Khóa Riêng Tư là gì?</h1>
+    <h3>Khóa Riêng Tư là gì?</h3>
     <p>Trong lĩnh vực công nghệ blockchain, khóa riêng đóng vai trò là một thành phần mật mã quan trọng, cấp quyền truy
         cập và kiểm soát đối với tài sản tiền điện tử của một cá nhân được lưu trữ trong ví blockchain. Đây là một chuỗi
         số và chữ cái dài được tạo ngẫu nhiên, hoạt động như tương đương kỹ thuật số của khóa vật lý. Cũng như một chiếc
@@ -72,7 +72,7 @@
     <p>Tương tự như mật khẩu, khóa riêng phải được giữ bí mật và không bao giờ được chia sẻ với bất kỳ ai. Nếu khóa
         riêng rơi vào tay kẻ xấu, nó có thể dẫn đến truy cập trái phép vào số tiền điện tử của bạn, có thể gây mất tiền
         của bạn.</p>
-    <h2>Tầm Quan Trọng của Việc Bảo Vệ Khóa Riêng</h2>
+    <h4>Tầm Quan Trọng của Việc Bảo Vệ Khóa Riêng</h4>
     <p>Do vai trò quan trọng của khóa riêng trong việc bảo mật tiền điện tử, việc thực hiện các biện pháp thích hợp để
         bảo vệ chúng là điều tối quan trọng. Dưới đây là một số bước cần thiết để bảo vệ khóa riêng của bạn:</p>
     <ul>
