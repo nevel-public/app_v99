@@ -1,52 +1,77 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="Generator" content="Microsoft Word 15 (filtered)">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <style>
-        <!--
-        /* Font Definitions */
-        @font-face
-        {font-family:"Cambria Math";
-            panose-1:2 4 5 3 5 4 6 3 2 4;}
-        @font-face
-        {font-family:Verdana;
-            panose-1:2 11 6 4 3 5 4 4 2 4;}
-        /* Style Definitions */
-        p.MsoNormal, li.MsoNormal, div.MsoNormal
-        {margin:0in;
-            line-height:115%;
-            font-size:11pt;
-            font-family:"Arial",sans-serif;}
-        .MsoChpDefault
-        {font-family:"Arial",sans-serif;}
-        .MsoPapDefault
-        {line-height:115%;}
-        @page WordSection1
-        {size:595.45pt 841.7pt;
-            margin:1.0in 1.0in 1.0in 1.0in;}
-        div.WordSection1
-        {page:WordSection1;}
-        /* List Definitions */
-        ol
-        {margin-bottom:0in;}
-        ul
-        {margin-bottom:0in;}
-        body {background-color: #1F2022;color: white}
-        -->
+        * {
+            font-family: 'Roboto', sans-serif;
+            --tx-text-dark: #141414;
+            --tx-text-inactive: #5B5B5B;
+            --bg-background-light: #FFF;
+        }
+
+        .content--wrapper {
+            padding: 16px;
+            background: var(--bg-background-light, #FFF);
+        }
+
+        .content--wrapper__title {
+            color: var(--tx-text-dark, #141414);
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px;
+        }
+
+        .content--wrapper__subtitle {
+            color: var(--tx-text-dark, #141414);
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px;
+        }
+
+        .content--wrapper__content {
+            color: var(--tx-text-inactive, #5B5B5B);
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 20px;
+        }
+
+        .content--wrapper__content p {
+            line-height: 20px;
+        }
     </style>
 </head>
+
 <body>
-<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,sans-serif">Danh sách từ bí mật là gì?</span></b></p>
-<br>
-Danh sách từ bí mật dùng để chứng minh quyền sở hữu hoặc quyền sử dụng tài sản trong ví của bạn. Danh sách từ bí mật là một tập hợp các từ có thể đọc được bởi con người, được ghép lại để tạo thành các khóa. Danh sách từ đó có thể giống như thế này:
-<p><b>strike sadness boss daring voice connect holiday vintage quantum pony stable genuine</b></p>
-<br>
-<p class="MsoNormal"><b><span lang="vi" style="font-size:10.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,sans-serif">Giữ an toàn cho danh sách từ bí mật </span></b></p>
-<p>1. Không nên lưu cụm từ dự phòng của bạn trên một thiết bị được kết nối với Internet. Nếu máy tính của bạn bị nhiễm vi-rút hoặc bị tấn công và điều khiển từ xa, cụm từ của bạn có thể bị đánh cắp.</p>
-<p>2. Lưu trữ offline an toàn hơn nhiều.</p>
+    <div class="content--wrapper">
+        <div class="content--wrapper__item">
+            <div class="content--wrapper__title">
+            </div>
+            <div class="content--wrapper__content">
+                <p class="content--wrapper__subtitle">Danh sách từ bí mật là gì?</p>
+                <p>
+                    Danh sách từ bí mật dùng để chứng minh quyền sở hữu hoặc quyền sử dụng tài sản trong ví của bạn.
+                    Danh sách từ bí mật là một tập hợp các từ có thể đọc được bởi con người, được ghép lại để tạo thành
+                    các khóa. Danh sách từ đó có thể giống như thế này:</p>
+                <p><b><code>strike sadness boss daring voice connect holiday vintage quantum pony stable genuine</code></b></p>
+                <p class="content--wrapper__subtitle">Giữ an toàn cho danh sách từ bí mật</p>
+                <ol>
+                    <li>Không nên lưu cụm từ dự phòng của bạn trên một thiết bị được kết nối với Internet. Nếu máy tính
+                        của bạn bị nhiễm vi-rút hoặc bị tấn công và điều khiển từ xa, cụm từ của bạn có thể bị đánh cắp.
+                    </li>
+                    <li>Lưu trữ offline an toàn hơn nhiều.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
 </body>
+
 </html>

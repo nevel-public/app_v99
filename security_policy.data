@@ -1,186 +1,271 @@
-<html><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="Generator" content="Microsoft Word 15 (filtered)">
-    <style>
-        <!--
-        /* Font Definitions */
-        @font-face
-        {font-family:"Roboto-Medium";
-            panose-1:2 4 5 3 5 4 6 3 2 4;}
-        @font-face
-        {font-family:Verdana;
-            panose-1:2 11 6 4 3 5 4 4 2 4;}
-        /* Style Definitions */
-        p.MsoNormal, li.MsoNormal, div.MsoNormal
-        {margin:0in;
-            line-height:115%;
-            font-size:11pt;
-            font-family:"Roboto-Medium",sans-serif;}
-        .MsoChpDefault
-        {font-family:"Roboto-Medium",sans-serif;}
-        .MsoPapDefault
-        {line-height:115%;}
-        @page WordSection1
-        {size:595.45pt 841.7pt;
-            margin:1.0in 1.0in 1.0in 1.0in;}
-        div.WordSection1
-        {page:WordSection1;}
-        /* List Definitions */
-        ol
-        {margin-bottom:0in;}
-        ul
-        {margin-bottom:0in;}
-        body {overflow-x: hidden; background-color: #1F2022;color: white}
-        -->
-    </style>
-</head><body>
-<p class="MsoNormal"><b><span lang="vi">CHÚNG TÔI THU THẬP NHỮNG GÌ</span></b></p>
+<!DOCTYPE html>
+<html lang="en">
 
-<p>Chúng tôi có được thông tin về bạn theo nhiều cách.</p>
-<p>Thông tin bạn cung cấp cho chúng tôi. Thông tin chúng tôi thu thập từ bạn có thể bao gồm:</p>
-<ul>
-    <li>
-        <p>Thông tin nhận dạng, chẳng hạn như: tên, họ, tên người dùng hoặc số nhận dạng tương tự, tiêu đề, ngày sinh và giới tính của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin liên lạc, chẳng hạn như địa chỉ bưu chính, địa chỉ email và số điện thoại của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin hồ sơ, chẳng hạn như tên người dùng và mật khẩu, sở thích, sở thích, phản hồi và phản hồi khảo sát của bạn;</p>
-    </li>
-    <li>
-        <p>Phản hồi và thông tin liên lạc, chẳng hạn như thông tin bạn cung cấp trong phản hồi khảo sát, khi bạn tham gia vào các hoạt động nghiên cứu thị trường, báo cáo các vấn đề dịch vụ, nhận hỗ trợ khách hàng hoặc liên lạc với chúng tôi;</p>
-    </li>
-    <li>
-        <p>Thông tin tài chính, chẳng hạn như thẻ tín dụng hoặc chi tiết thẻ thanh toán khác của bạn;</p>
-    </li>
-    <li>
-        <p>Thông tin giao dịch, chẳng hạn như chi tiết mua hàng và chi tiết thanh toán mà bạn thực hiện thông qua Dịch vụ;</p>
-    </li>
-    <li>
-        <p>Thông tin sử dụng, chẳng hạn như thông tin về cách bạn sử dụng Dịch vụ và cách bạn tương tác với chúng tôi;</p>
-    </li>
-    <li>
-        <p>Thông tin tiếp thị, chẳng hạn như sở thích của bạn để nhận thông tin liên lạc tiếp thị và chi tiết về cách bạn tương tác với thông tin liên lạc tiếp thị;</p>
-    </li>
-    <li>
-        <p>Thông tin tài chính, chẳng hạn như số tài khoản ngân hàng và số định tuyến ngân hàng; Khối lượng nắm giữ tài sản tài chính; Và</p>
-    </li>
-    <li>
-        <p>Thông tin kỹ thuật như địa chỉ ví Ethereum của bạn, các API - khóa và thông tin mạng về giao dịch</p>
-    </li>
-</ul>
-<p><br></p>
-<p>Thông tin chúng tôi nhận được từ các bên khác. Chúng tôi có thể nhận được thông tin về bạn từ các nguồn bên thứ ba khác và chúng tôi có thể thêm thông tin này vào thông tin của bạn trong quá trình bạn sử dụng Dịch vụ. Thông tin này có thể bao gồm:</p>
-<p>Đăng ký với một tài khoản đăng nhập duy nhất (Single Sign-On Account): Bạn cũng có tùy chọn sử dụng một tài khoản đăng nhập duy nhất (Single Sign-On) khi đăng ký tài khoản người dùng nhất định, chẳng hạn như trang web Codefi. Với SSO, bạn có thể đăng ký nhiều dịch vụ và nền tảng khác nhau bằng một tài khoản. Một số trang web của chúng tôi hiện đang cung cấp cho bạn cơ hội sử dụng các dịch vụ SSO được cung cấp bởi Google LLC ("Google"), có trụ sở tại 94043 Amphitheater Drive, Mountain View, California, Hoa Kỳ. Chính sách bảo mật và Điều khoản sử dụng của Google áp dụng cho việc đăng ký và sử dụng Dịch vụ Google SSO, vui lòng tham khảo&nbsp;https://policies.google.com/privacy/. Xin lưu ý rằng việc đăng ký và sử dụng Dịch vụ SSO phải tuân theo Chính sách bảo mật và Điều khoản sử dụng của Google, chúng tôi không kiểm soát các chính sách và điều khoản này.</p>
-<p>Các thông tin được tự động thu thập. Chúng tôi có thể tự động ghi lại một số thông tin nhất định về cách bạn sử dụng trang web của chúng tôi (chúng tôi gọi thông tin này là Dữ liệu nhật ký - Log Data). Dữ liệu nhật ký có thể bao gồm thông tin như Địa chỉ IP của người dùng, loại thiết bị và trình duyệt, hệ điều hành, các trang hoặc tính năng của trang web mà người dùng truy cập và thời gian dành cho các trang hoặc tính năng đó, tần suất người dùng sử dụng trang web, cụm từ tìm kiếm, liên kết đến trang web mà người dùng nhấp vào hoặc sử dụng và các số liệu thống kê khác. Chúng tôi sử dụng thông tin này để quản lý Dịch vụ và phân tích (và có thể thuê bên thứ ba để phân tích) thông tin này để cải thiện và nâng cao Dịch vụ bằng cách mở rộng chức năng của nó và điều chỉnh theo nhu cầu và sở thích của người dùng.</p>
-<p>Chúng tôi có thể sử dụng cookie, lưu trữ cục bộ hoặc các công nghệ tương tự để phân tích xu hướng, quản lý trang web, theo dõi hành vi của người dùng xung quanh trang web và thu thập thông tin nhân khẩu học về toàn bộ người dùng trên hệ thống của chúng tôi. Người dùng có thể kiểm soát việc sử dụng cookie và lưu trữ cục bộ trình duyệt cá nhân. Để biết thêm thông tin, vui lòng xem&nbsp;Chính sách Cookie&nbsp;của chúng tôi.</p>
-<p>Tổng quan về Tracking Technology</p>
-<p>Là một phần của hầu hết các trình duyệt thương mại, cookie thông thường thường bị vô hiệu hóa hoặc xóa bởi các công cụ có sẵn, và trong một số trường hợp bị chặn trong tương lai bằng cách chọn một số cài đặt nhất định. Để biết thêm thông tin, vui lòng xem&nbsp;Chính sách Cookie&nbsp;của chúng tôi.</p>
-<p>Google Analystics</p>
-<p>Bạn có thể chọn sử dụng cookie của Google Analytics bằng cách: https://tools.google.com/dlpage/gaoptout Cũng như tải xuống plugin Google Analytics Opt-out Browser.</p>
-<br>
-<p class="MsoNormal"><b><span lang="vi">COOKIES</span></b></p>
-<p>Bạn có thể thiết lập trình duyệt của mình để từ chối tất cả hoặc một số cookie của trình duyệt, hoặc cảnh báo bạn khi trang web mà đang truy cập đang thiết lập hoặc truy cập cookie. Nếu bạn vô hiệu hóa hoặc từ chối cookie, xin lưu ý rằng một số tính năng của trang web có thể không truy cập được hoặc không hoạt động đúng cách. Để biết thêm thông tin về các cookie chúng tôi sử dụng, vui lòng tham khảo&nbsp;Chính sách Cookie&nbsp;của chúng tôi.</p>
-<p>Những thông tin chúng tôi sẽ không bao giờ thu thập. Chúng tôi sẽ không bao giờ yêu cầu bạn chia sẻ khóa riêng tư hoặc ví của bạn. Không được tin tưởng bất cứ ai hoặc bất kỳ trang web nào yêu cầu bạn nhập khóa riêng tư hoặc ví.</p>
-<br>
-<p class="MsoNormal"><b><span lang="vi">SỬ DỤNG THÔNG TIN CÁ NHÂN</span></b></p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi">Nhằm mục đích cung cấp dịch vụ của chúng tôi</span></i></b></p>
-<p>Chúng tôi sẽ sử dụng thông tin cá nhân của bạn theo các cách sau:</p>
-<ul>
-    <li>
-        <p>Cho phép bạn truy cập và sử dụng Dịch vụ</p>
-    </li>
-    <li>
-        <p>Cung cấp và cung cấp các sản phẩm và dịch vụ mà bạn có thể yêu cầu.</p>
-    </li>
-    <li>
-        <p>Xử lý và hoàn thành giao dịch và gửi cho bạn thông tin liên quan, bao gồm xác nhận mua hàng và hóa đơn</p>
-    </li>
-    <li>
-        <p>Gửi thông tin, bao gồm xác nhận, thông báo kỹ thuật, cập nhật, cảnh báo bảo mật, thông báo hỗ trợ và quản lý.</p>
-    </li>
-</ul>
-<p><br></p>
-<p class="MsoNormal"><b><i><span lang="vi">Tuân thủ pháp luật</span></i></b></p>
-<p>Chúng tôi sử dụng thông tin cá nhân của bạn khi chúng tôi thấy cần thiết hoặc phù hợp để tuân thủ luật hiện hành, bao gồm luật chống rửa tiền (AML) và xác nhận thông tin của bạn (KYC), các yêu cầu hợp pháp và quy trình pháp lý, chẳng hạn như đáp ứng trát đòi hầu tòa hoặc yêu cầu của cơ quan chính phủ.</p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi" >Liên lạc với bạn</span></i></b></p>
-<p>Chúng tôi sử dụng thông tin cá nhân của bạn để truyền đạt các chương trình khuyến mãi, các sự kiện sắp tới và các tin tức khác về các sản phẩm và dịch vụ do chúng tôi và các đối tác được lựa chọn của chúng tôi cung cấp.</p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi" >Tối ưu hóa nền tảng</span></i></b></p>
-<p>Để tối ưu hóa trải nghiệm người dùng, chúng tôi có thể sử dụng thông tin cá nhân của bạn để vận hành, duy trì và cải thiện dịch vụ. Chúng tôi cũng có thể sử dụng thông tin của bạn để trả lời các nhận xét và câu hỏi về Dịch vụ và cung cấp dịch vụ khách hàng nói chung cho bạn và những người dùng khác.</p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi" >Với sự đồng ý của bạn</span></i></b></p>
-<p>Chúng tôi có thể sử dụng hoặc chia sẻ thông tin cá nhân với sự đồng ý của bạn, ví dụ: khi bạn đồng ý cho phép chúng tôi đăng lời chứng thực hoặc xác nhận của bạn trên trang web, bạn chỉ đạo chúng tôi thực hiện hành động cụ thể đối với dữ liệu cá nhân hoặc bạn chọn sử dụng thông tin liên lạc tiếp thị của bên thứ ba.</p>
-<p>Nhằm mục đích tuân thủ, phòng chống gian lận và bảo mật</p>
-<p>Chúng tôi có thể sử dụng thông tin cá nhân của bạn để bảo vệ, điều tra và ngăn chặn các hoạt động gian lận, trái phép hoặc bất hợp pháp.</p>
-<br>
-<p class="MsoNormal"><b><span lang="vi" >CHIA SẺ THÔNG TIN CÁ NHÂN</span></b></p>
-<p>Chúng tôi sẽ không chia sẻ thông tin cá nhân mà bạn cung cấp với các tổ chức khác mà không có sự đồng ý của bạn, trừ khi được nêu trong&nbsp;Chính sách bảo mật&nbsp;này. Chúng tôi tiết lộ thông tin cá nhân cho bên thứ ba khi:</p>
-<p>Các chi nhánh - Chúng tôi có thể tiết lộ thông tin cá nhân của bạn cho các công ty con và các chi nhánh của chúng tôi (tức là các công ty liên quan đến quyền sở hữu chung hoặc kiểm soát của chúng tôi) để phù hợp với các mục đích của&nbsp;Chính sách bảo mật này.</p>
-<p>Chuyển nhượng kinh doanh - Chúng tôi có thể chia sẻ thông tin cá nhân khi chúng tôi thực hiện các giao dịch kinh doanh hoặc đàm phán các giao dịch kinh doanh liên quan đến việc bán hoặc chuyển giao tất cả hoặc một phần doanh nghiệp, tài sản của chúng tôi. Các giao dịch này có thể bao gồm bất kỳ giao dịch hoặc thủ tục sáp nhập, tài chính, mua lại hoặc phá sản nào.</p>
-<p>Tuân thủ pháp luật và thực thi pháp luật; Bảo vệ và an toàn - Chúng tôi có thể chia sẻ thông tin cá nhân cho các mục đích pháp lý, bảo vệ và bảo mật.</p>
-<ul>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để tuân thủ luật pháp, bao gồm các yêu cầu KYC và AML.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để đáp ứng các yêu cầu hợp pháp và quy trình pháp lý.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin để bảo vệ quyền và tài sản của Công ty, đại lý, khách hàng và những người khác. Điều này bao gồm việc thực thi các thỏa thuận, chính sách và điều khoản sử dụng của chúng tôi.</p>
-    </li>
-    <li>
-        <p>Chúng tôi có thể chia sẻ thông tin trong trường hợp khẩn cấp. Điều này bao gồm bảo vệ sự an toàn của nhân viên và đại lý, khách hàng hoặc bất kỳ ai của chúng tôi.</p>
-    </li>
-</ul>
-<p>Tư vấn viên chuyên nghiệp và nhà cung cấp dịch vụ - Chúng tôi có thể chia sẻ thông tin với những nhân viên, đối tác của chúng tôi. Những người nhận thông tin này có thể bao gồm các công ty và cá nhân bên thứ ba quản lý và cung cấp dịch vụ thay mặt chúng tôi (như xử lý thanh toán hóa đơn và thẻ tín dụng, hỗ trợ khách hàng, lưu trữ, gửi email và dịch vụ quản lý cơ sở dữ liệu), cũng như luật sư, ngân hàng, kiểm toán viên và công ty bảo hiểm.</p>
-<p>Ngoài ra, bạn có thể cho phép chúng tôi chia sẻ thông tin cá nhân với các công ty hoặc tổ chức khác mà bạn chọn. Những mục đích sử dụng này sẽ phải tuân theo chính sách bảo mật của một hoặc nhiều bên liên quan.</p>
-<p>Chúng tôi cũng có thể chia sẻ dữ liệu tổng hợp và/hoặc ẩn danh với những người khác để đảm bảo tính riêng tư của họ.</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >CÁCH BẢO VỆ THÔNG TIN</span></b></p>
-<br>
-<p>Chúng tôi lưu giữ thông tin thu thập miễn là nó cần thiết và phù hợp để thực hiện các mục đích được nêu trong&nbsp;Chính sách bảo mật&nbsp;này. Ngoài ra, chúng tôi lưu giữ thông tin cá nhân để tuân thủ luật hiện hành khi cần thiết, ngăn chặn gian lận, giải quyết tranh chấp, giải quyết vấn đề, hỗ trợ bất kỳ cuộc điều tra nào, thực thi&nbsp;Điều khoản sử dụng&nbsp;của chúng tôi và các hành động khác được pháp luật cho phép. Để xác định thời gian lưu giữ thông tin cá nhân thích hợp, chúng tôi xem xét số lượng, bản chất và độ nhạy cảm của thông tin, nguy cơ tổn hại có thể phát sinh từ việc sử dụng hoặc tiết lộ trái phép thông tin cá nhân của bạn, mục đích chúng tôi xử lý thông tin cá nhân và liệu chúng tôi có thể đạt được những mục đích đó bằng các phương tiện khác hay không, và các yêu cầu pháp lý hiện hành.</p>
-<p>Trong một số trường hợp, chúng tôi có thể xử lý thông tin cá nhân của bạn một cách ẩn danh (để nó không còn liên kết với bạn nữa), trong trường hợp đó chúng tôi có thể sử dụng thông tin vô thời hạn mà không cần thông báo cho bạn.</p>
-<p>Chúng tôi sử dụng các biện pháp bảo mật tiêu chuẩn được thiết kế để bảo vệ sự an toàn của tất cả thông tin gửi thông qua các Dịch vụ. Tuy nhiên, sự an toàn của thông tin được truyền qua Internet không bao giờ được đảm bảo. Chúng tôi không chịu trách nhiệm về bất kỳ sự can thiệp hoặc gián đoạn nào đối với bất kỳ thông tin liên lạc nào được thực hiện qua Internet, hoặc thay đổi hoặc mất dữ liệu. Người dùng Dịch vụ chịu trách nhiệm duy trì bảo mật của bất kỳ mật khẩu, sinh trắc học, ID người dùng hoặc các hình thức xác thực khác liên quan đến việc truy cập vào các dữ liệu được bảo vệ bằng mật khẩu hoặc của bất kỳ Dịch vụ kỹ thuật số nào của chúng tôi. Để bảo vệ bạn và dữ liệu của bạn, chúng tôi có thể đình chỉ việc sử dụng bất kỳ dịch vụ nào của bạn mà không cần thông báo trước trong khi chờ điều tra nếu nghi ngờ có bất kỳ vi phạm bảo mật nào.</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >LỰA CHỌN VÀ THAY ĐỔI THÔNG TIN</span></b></p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi"  >Truy cập, cập nhật, chỉnh sửa và xóa thông tin của bạn</span></i></b></p>
-<p>Bạn có thể truy cập thông tin mà bạn tự nguyện cung cấp thông qua Tài khoản Dịch vụ và để xem xét, chỉnh sửa hoặc xóa thông tin đó bằng cách gửi yêu cầu đến [email]. Bạn có thể yêu cầu thay đổi lựa chọn liên hệ, chọn không chia sẻ với người khác, cập nhật thông tin cá nhân và sở thích của bạn.</p>
-<br>
-<p class="MsoNormal"><b><i><span lang="vi" >Độ tuổi</span></i></b></p>
-<p>Nếu bạn chưa đủ tuổi trong phạm vi quyền hạn cư trú, bạn chỉ có thể sử dụng Dịch vụ với sự đồng ý của cha mẹ hoặc người giám hộ hợp pháp hoặc dưới sự giám sát của họ. Theo yêu cầu của Đạo luật bảo vệ quyền riêng tư trực tuyến của trẻ em (COPPA), nếu chúng tôi nhận được bất kỳ thông tin nào trực tiếp từ trẻ em dưới 13 tuổi mà không có sự đồng ý xác minh trước từ cha mẹ của trẻ, Chúng tôi sẽ chỉ sử dụng thông tin đó để trực tiếp trả lại cho đứa trẻ (hoặc cha mẹ hoặc người giám hộ hợp pháp của nó) để thông báo cho đứa trẻ rằng nó không thể sử dụng Trang web và sau đó chúng tôi sẽ xóa thông tin đó.</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >TRUYỀN THÔNG TIẾP THỊ VÀ CHIA SẺ</span></b></p>
-<br>
-<p>Bạn có thể đề xuất chúng tôi không sử dụng thông tin liên lạc của bạn để liên hệ với bạn về các dịch vụ, chương trình khuyến mãi, khảo sát và các sự kiện đặc biệt có thể thu hút sự quan tâm của bạn bằng cách sử dụng thông tin dưới đây để liên hệ với chúng tôi. Bạn cũng có thể chọn không tham gia bằng cách làm theo các hướng dẫn ở cuối bất kỳ email doanh nghiệp nào bạn có thể nhận được.</p>
-<p>Xin lưu ý rằng bất kể bạn yêu cầu gì, chúng tôi vẫn có thể sử dụng và chia sẻ một số thông tin nhất định khi được pháp luật hiện hành cho phép. Ví dụ: bạn có thể không chọn từ chối một số email hoạt động nhất định, chẳng hạn như email phản ánh mối quan hệ hoặc giao dịch của chúng tôi với bạn hoặc thông báo quan trọng về các dịch vụ mà chúng tôi cung cấp cho bạn, chẳng hạn như thông báo liên quan đến dịch vụ (ví dụ: nếu dịch vụ của chúng tôi tạm thời bị đình chỉ để bảo trì).</p>
-<p>Ngoài ra, nếu bạn tải xuống ứng dụng di động của chúng tôi và bật thông báo đẩy trên thiết bị di động của bạn, chúng tôi có thể gửi cho bạn thông báo thông qua thông báo đẩy, ví dụ như để liên lạc cập nhật trạng thái trên Dịch vụ của chúng tôi. Tuy nhiên, bạn có thể chọn vô hiệu hóa các thông báo này (ngoại trừ thông báo ban đầu được sử dụng để xác minh danh tính của bạn).</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >CÁC LIÊN KẾT VÀ TRANG WEB CỦA BÊN THỨ BA</span></b></p>
-<p>Thông báo về quyền riêng tư này không đề cập đến các quyền riêng tư của bất kỳ bên thứ ba nào và chúng tôi không chịu trách nhiệm về chúng, bao gồm cả những bên điều hành các trang web được liên kết đến trang web của chúng tôi. Bao gồm các liên kết trên trang web của chúng tôi không có nghĩa là chúng tôi hoặc các chi nhánh của chúng tôi chứng thực hoạt động của các trang web được liên kết.</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >THAY ĐỔI CHÍNH SÁCH BẢO MẬT NÀY</span></b></p>
-<br>
-<p>Chúng tôi có thể thay đổi chính sách bảo mật này bất cứ lúc nào. Chúng tôi khuyến khích bạn kiểm tra trang này thường xuyên để cập nhật thông tin mới nhất về hoạt động bảo mật của chúng tôi. Nếu chúng tôi thực hiện bất kỳ thay đổi nào, chúng tôi sẽ thay đổi ngày cập nhật cuối cùng ở trên.</p>
-<p>Bất kỳ sửa đổi nào đối với Chính sách bảo mật này sẽ có hiệu lực sau khi chúng tôi đăng các điều khoản mới và/hoặc thực hiện các thay đổi đối với Trang web (hoặc được các điều khác được nêu tại thời điểm đăng). Trong mọi trường hợp, việc bạn tiếp tục sử dụng Trang web hoặc Dịch vụ sau khi chúng tôi thay đổi bất kỳ Chính sách bảo mật sửa đổi nào cho thấy bạn chấp nhận các điều khoản của Chính sách bảo mật sửa đổi đó.</p>
-<br>
-<br>
-<p class="MsoNormal"><b><span lang="vi" >NHÂN VIÊN BẢO VỆ DỮ LIỆU</span></b></p>
-<br>
-<p>Chúng tôi đã bổ nhiệm một nhân viên bảo vệ dữ liệu dựa trên chất lượng chuyên môn luật và thực tiễn bảo vệ dữ liệu. Nhiệm vụ của nhân viên bảo vệ dữ liệu là đảm bảo rằng chúng tôi luôn tuân thủ các trách nhiệm của mình theo luật bảo vệ dữ liệu hiện hành.</p>
-<p>Thông tin liên hệ của nhân viên bảo vệ dữ liệu:</p>
-<p>Thư điện tử: [Email]</p>
-<p>Hoặc viết thư cho DPO: [Địa chỉ]</p>
-<br><br>
-<p class="MsoNormal"><b><span lang="vi" >LIÊN HỆ VỚI CHÚNG THÔI</span></b></p>
-<br>
-<p>Chúng tôi hoan nghênh ý kiến hoặc câu hỏi của bạn về Chính sách này và bạn có thể liên hệ với chúng tôi bằng cách:</p>
-<p>Thư điện tử: [Email]</p>
-<p>Hoặc viết thư cho chúng tôi: [Địa chỉ công ty]</p>
-<br><br><br>
-</body></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Roboto', sans-serif;
+            --tx-text-dark: #141414;
+            --tx-text-inactive: #5B5B5B;
+            --bg-background-light: #FFF;
+        }
+
+        .content--wrapper {
+            padding: 16px;
+            background: var(--bg-background-light, #FFF);
+        }
+
+        .content--wrapper__title {
+            color: var(--tx-text-dark, #141414);
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px;
+        }
+
+        .content--wrapper__subtitle {
+            color: var(--tx-text-dark, #141414);
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px;
+        }
+
+        .content--wrapper__content {
+            color: var(--tx-text-inactive, #5B5B5B);
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 20px;
+        }
+
+        .content--wrapper__content p {
+            line-height: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content--wrapper">
+        <div class="content--wrapper__item">
+            <div class="content--wrapper__title">
+                <p>CHÚNG TÔI THU THẬP NHỮNG GÌ</p>
+            </div>
+            <div class="content--wrapper__content">
+                <p>Chúng tôi có được thông tin về bạn theo nhiều cách.</p>
+                <p>Thông tin bạn cung cấp cho chúng tôi. Thông tin chúng tôi thu thập từ bạn có thể bao gồm:</p>
+                <ul>
+                    <li>Thông tin nhận dạng, chẳng hạn như: tên, họ, tên người dùng hoặc số nhận dạng tương tự, tiêu đề,
+                        ngày sinh và giới tính của bạn;</li>
+                    <li>Thông tin liên lạc, chẳng hạn như địa chỉ bưu chính, địa chỉ email và số điện thoại của bạn;
+                    </li>
+                    <li>Thông tin hồ sơ, chẳng hạn như tên người dùng và mật khẩu, sở thích, sở thích, phản hồi và phản
+                        hồi khảo sát của bạn;</li>
+                    <li>Phản hồi và thông tin liên lạc, chẳng hạn như thông tin bạn cung cấp trong phản hồi khảo sát,
+                        khi bạn tham gia vào các hoạt động nghiên cứu thị trường, báo cáo các vấn đề dịch vụ, nhận hỗ
+                        trợ khách hàng hoặc liên lạc với chúng tôi;</li>
+                    <li>Thông tin tài chính, chẳng hạn như thẻ tín dụng hoặc chi tiết thẻ thanh toán khác của bạn;</li>
+                    <li>Thông tin giao dịch, chẳng hạn như chi tiết mua hàng và chi tiết thanh toán mà bạn thực hiện
+                        thông qua Dịch vụ;</li>
+                    <li>Thông tin sử dụng, chẳng hạn như thông tin về cách bạn sử dụng Dịch vụ và cách bạn tương tác với
+                        chúng tôi;</li>
+                    <li>Thông tin tiếp thị, chẳng hạn như sở thích của bạn để nhận thông tin liên lạc tiếp thị và chi
+                        tiết về cách bạn tương tác với thông tin liên lạc tiếp thị;</li>
+                    <li>Thông tin tài chính, chẳng hạn như số tài khoản ngân hàng và số định tuyến ngân hàng; Khối lượng
+                        nắm giữ tài sản tài chính;</li>
+                    <li>Thông tin kỹ thuật như địa chỉ ví Ethereum của bạn, các API - khóa và thông tin mạng về giao
+                        dịch.</li>
+                </ul>
+                <p>Thông tin chúng tôi nhận được từ các bên khác. Chúng tôi có thể nhận được thông tin về bạn từ các
+                    nguồn bên thứ ba khác và chúng tôi có thể thêm thông tin này vào thông tin của bạn trong quá trình
+                    bạn sử dụng Dịch vụ. Thông tin này có thể bao gồm:</p>
+                <p>Đăng ký với một tài khoản đăng nhập duy nhất (Single Sign-On Account): Bạn cũng có tùy chọn sử dụng
+                    một tài khoản đăng nhập duy nhất (Single Sign-On) khi đăng ký tài khoản người dùng nhất định, chẳng
+                    hạn như trang web Codefi. Với SSO, bạn có thể đăng ký nhiều dịch vụ và nền tảng khác nhau bằng một
+                    tài khoản. Một số trang web của chúng tôi hiện đang cung cấp cho bạn cơ hội sử dụng các dịch vụ SSO
+                    được cung cấp bởi Google LLC ("Google"), có trụ sở tại 94043 Amphitheater Drive, Mountain View,
+                    California, Hoa Kỳ. Chính sách bảo mật và Điều khoản sử dụng của Google áp dụng cho việc đăng ký và
+                    sử dụng Dịch vụ Google SSO, vui lòng tham khảo <a
+                        href=" https://policies.google.com/privacy/">https://policies.google.com/privacy/</a> . Xin lưu
+                    ý rằng việc đăng ký và sử dụng Dịch vụ SSO phải tuân theo Chính sách bảo mật và Điều khoản sử dụng
+                    của Google, chúng tôi không kiểm soát các chính sách và điều khoản này.</p>
+                <p>Các thông tin được tự động thu thập. Chúng tôi có thể tự động ghi lại một số thông tin nhất định về
+                    cách bạn sử dụng trang web của chúng tôi (chúng tôi gọi thông tin này là Dữ liệu nhật ký - Log
+                    Data). Dữ liệu nhật ký có thể bao gồm thông tin như Địa chỉ IP của người dùng, loại thiết bị và
+                    trình duyệt, hệ điều hành, các trang hoặc tính năng của trang web mà người dùng truy cập và thời
+                    gian dành cho các trang hoặc tính năng đó, tần suất người dùng sử dụng trang web, cụm từ tìm kiếm,
+                    liên kết đến trang web mà người dùng nhấp vào hoặc sử dụng và các số liệu thống kê khác. Chúng tôi
+                    sử dụng thông tin này để quản lý Dịch vụ và phân tích (và có thể thuê bên thứ ba để phân tích) thông
+                    tin này để cải thiện và nâng cao Dịch vụ bằng cách mở rộng chức năng của nó và điều chỉnh theo nhu
+                    cầu và sở thích của người dùng.</p>
+                <p>Chúng tôi có thể sử dụng cookie, lưu trữ cục bộ hoặc các công nghệ tương tự để phân tích xu hướng,
+                    quản lý trang web, theo dõi hành vi của người dùng xung quanh trang web và thu thập thông tin nhân
+                    khẩu học về toàn bộ người dùng trên hệ thống của chúng tôi. Người dùng có thể kiểm soát việc sử dụng
+                    cookie và lưu trữ cục bộ trình duyệt cá nhân. Để biết thêm thông tin, vui lòng xem Chính sách Cookie
+                    của chúng tôi.</p>
+                <p class="content--wrapper__subtitle">Tổng quan về Tracking Technology</p>
+                <p>Là một phần của hầu hết các trình duyệt thương mại, cookie thông thường thường bị vô hiệu hóa hoặc
+                    xóa bởi các công cụ có sẵn, và trong một số trường hợp bị chặn trong tương lai bằng cách chọn một số
+                    cài đặt nhất định. Để biết thêm thông tin, vui lòng xem Chính sách Cookie của chúng tôi.</p>
+
+                <p class="content--wrapper__subtitle">Google Analystics</p>
+                <p>Bạn có thể chọn sử dụng cookie của Google Analytics bằng cách: <a
+                        href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>
+                    Cũng như tải xuống plugin Google Analytics Opt-out Browser.</p>
+
+                <p class="content--wrapper__subtitle">COOKIES</p>
+                <p>Bạn có thể thiết lập trình duyệt của mình để từ chối tất cả hoặc một số cookie của trình duyệt, hoặc
+                    cảnh báo bạn khi trang web mà đang truy cập đang thiết lập hoặc truy cập cookie. Nếu bạn vô hiệu hóa
+                    hoặc từ chối cookie, xin lưu ý rằng một số tính năng của trang web có thể không truy cập được hoặc
+                    không hoạt động đúng cách. Để biết thêm thông tin về các cookie chúng tôi sử dụng, vui lòng tham
+                    khảo&nbsp;Chính sách Cookie&nbsp;của chúng tôi.</p>
+                <p>Những thông tin chúng tôi sẽ không bao giờ thu thập. Chúng tôi sẽ không bao giờ yêu cầu bạn chia sẻ
+                    khóa riêng tư hoặc ví của bạn. Không được tin tưởng bất cứ ai hoặc bất kỳ trang web nào yêu cầu bạn
+                    nhập khóa riêng tư hoặc ví.</p>
+
+                <p class="content--wrapper__subtitle">SỬ DỤNG THÔNG TIN CÁ NHÂN</p>
+                <p>Nhằm mục đích cung cấp dịch vụ của chúng tôi. Chúng tôi sẽ sử dụng thông tin cá nhân của bạn theo các
+                    cách sau:</p>
+                <ol>
+                    <li>
+                        Cho phép bạn truy cập và sử dụng Dịch vụ
+                    </li>
+                    <li>
+                        Cung cấp và cung cấp các sản phẩm và dịch vụ mà bạn có thể yêu cầu.
+                    </li>
+                    <li>
+                        Xử lý và hoàn thành giao dịch và gửi cho bạn thông tin liên quan, bao gồm xác nhận mua hàng và
+                        hóa đơn
+                    </li>
+                    <li>
+                        Gửi thông tin, bao gồm xác nhận, thông báo kỹ thuật, cập nhật, cảnh báo bảo mật, thông báo hỗ
+                        trợ và quản lý.
+                    </li>
+                </ol>
+
+                <p class="content--wrapper__subtitle">CHIA SẺ THÔNG TIN CÁ NHÂN</p>
+                <p>Chúng tôi sẽ không chia sẻ thông tin cá nhân mà bạn cung cấp với các tổ chức khác mà không có sự đồng
+                    ý của bạn, trừ khi được nêu trong Chính sách bảo mật này. Chúng tôi tiết lộ thông tin cá nhân cho
+                    bên thứ ba khi:</p>
+                <p>Các chi nhánh - Chúng tôi có thể tiết lộ thông tin cá nhân của bạn cho các công ty con và các chi
+                    nhánh của chúng tôi (tức là các công ty liên quan đến quyền sở hữu chung hoặc kiểm soát của chúng
+                    tôi) để phù hợp với các mục đích của Chính sách bảo mật này.</p>
+                <p>Chuyển nhượng kinh doanh - Chúng tôi có thể chia sẻ thông tin cá nhân khi chúng tôi thực hiện các
+                    giao dịch kinh doanh hoặc đàm phán các giao dịch kinh doanh liên quan đến việc bán hoặc chuyển giao
+                    tất cả hoặc một phần doanh nghiệp, tài sản của chúng tôi. Các giao dịch này có thể bao gồm bất kỳ
+                    giao dịch hoặc thủ tục sáp nhập, tài chính, mua lại hoặc phá sản nào.</p>
+                <p>Tuân thủ pháp luật và thực thi pháp luật; Bảo vệ và an toàn - Chúng tôi có thể chia sẻ thông tin cá
+                    nhân cho các mục đích pháp lý, bảo vệ và bảo mật.</p>
+                <p>Chúng tôi có thể chia sẻ thông tin để tuân thủ luật pháp, bao gồm các yêu cầu KYC và AML.</p>
+                <p>Chúng tôi có thể chia sẻ thông tin để đáp ứng các yêu cầu hợp pháp và quy trình pháp lý.</p>
+                <p>Chúng tôi có thể chia sẻ thông tin để bảo vệ quyền và tài sản của Công ty, đại lý, khách hàng và
+                    những người khác. Điều này bao gồm việc thực thi các thỏa thuận, chính sách và điều khoản sử dụng
+                    của chúng tôi.</p>
+                <p>Chúng tôi có thể chia sẻ thông tin trong trường hợp khẩn cấp. Điều này bao gồm bảo vệ sự an toàn của
+                    nhân viên và đại lý, khách hàng hoặc bất kỳ ai của chúng tôi.</p>
+                <p>Tư vấn viên chuyên nghiệp và nhà cung cấp dịch vụ - Chúng tôi có thể chia sẻ thông tin với những nhân
+                    viên, đối tác của chúng tôi. Những người nhận thông tin này có thể bao gồm các công ty và cá nhân
+                    bên thứ ba quản lý và cung cấp dịch vụ thay mặt chúng tôi (như xử lý thanh toán hóa đơn và thẻ tín
+                    dụng, hỗ trợ khách hàng, lưu trữ, gửi email và dịch vụ quản lý cơ sở dữ liệu), cũng như luật sư,
+                    ngân hàng, kiểm toán viên và công ty bảo hiểm.</p>
+                <p>Ngoài ra, bạn có thể cho phép chúng tôi chia sẻ thông tin cá nhân với các công ty hoặc tổ chức khác
+                    mà bạn chọn. Những mục đích sử dụng này sẽ phải tuân theo chính sách bảo mật của một hoặc nhiều bên
+                    liên quan.</p>
+                <p>Chúng tôi cũng có thể chia sẻ dữ liệu tổng hợp và/hoặc ẩn danh với những người khác để đảm bảo tính
+                    riêng tư của họ.</p>
+
+                <p class="content--wrapper__subtitle">CÁCH BẢO VỆ THÔNG TIN</p>
+                <p>Chúng tôi lưu giữ thông tin thu thập miễn là nó cần thiết và phù hợp để thực hiện các mục đích được
+                    nêu trong Chính sách bảo mật này. Ngoài ra, chúng tôi lưu giữ thông tin cá nhân để tuân thủ luật
+                    hiện hành khi cần thiết, ngăn chặn gian lận, giải quyết tranh chấp, giải quyết vấn đề, hỗ trợ bất kỳ
+                    cuộc điều tra nào, thực thi Điều khoản sử dụng của chúng tôi và các hành động khác được pháp luật
+                    cho phép. Để xác định thời gian lưu giữ thông tin cá nhân thích hợp, chúng tôi xem xét số lượng, bản
+                    chất và độ nhạy cảm của thông tin, nguy cơ tổn hại có thể phát sinh từ việc sử dụng hoặc tiết lộ
+                    trái phép thông tin cá nhân của bạn, mục đích chúng tôi xử lý thông tin cá nhân và liệu chúng tôi có
+                    thể đạt được những mục đích đó bằng các phương tiện khác hay không, và các yêu cầu pháp lý hiện
+                    hành.</p>
+                <p>Trong một số trường hợp, chúng tôi có thể xử lý thông tin cá nhân của bạn một cách ẩn danh (để nó
+                    không còn liên kết với bạn nữa), trong trường hợp đó chúng tôi có thể sử dụng thông tin vô thời hạn
+                    mà không cần thông báo cho bạn.</p>
+                <p>Chúng tôi sử dụng các biện pháp bảo mật tiêu chuẩn được thiết kế để bảo vệ sự an toàn của tất cả
+                    thông tin gửi thông qua các Dịch vụ. Tuy nhiên, sự an toàn của thông tin được truyền qua Internet
+                    không bao giờ được đảm bảo. Chúng tôi không chịu trách nhiệm về bất kỳ sự can thiệp hoặc gián đoạn
+                    nào đối với bất kỳ thông tin liên lạc nào được thực hiện qua Internet, hoặc thay đổi hoặc mất dữ
+                    liệu. Người dùng Dịch vụ chịu trách nhiệm duy trì bảo mật của bất kỳ mật khẩu, sinh trắc học, ID
+                    người dùng hoặc các hình thức xác thực khác liên quan đến việc truy cập vào các dữ liệu được bảo vệ
+                    bằng mật khẩu hoặc của bất kỳ Dịch vụ kỹ thuật số nào của chúng tôi. Để bảo vệ bạn và dữ liệu của
+                    bạn, chúng tôi có thể đình chỉ việc sử dụng bất kỳ dịch vụ nào của bạn mà không cần thông báo trước
+                    trong khi chờ điều tra nếu nghi ngờ có bất kỳ vi phạm bảo mật nào.</p>
+
+                <p class="content--wrapper__subtitle">LỰA CHỌN VÀ THAY ĐỔI THÔNG TIN</p>
+
+                <p><b>Truy cập, cập nhật, chỉnh sửa và xóa thông tin của bạn</b></p>
+                <p>Bạn có thể truy cập thông tin mà bạn tự nguyện cung cấp thông qua Tài khoản Dịch vụ và để xem xét,
+                    chỉnh sửa hoặc xóa thông tin đó bằng cách gửi yêu cầu đến [email]. Bạn có thể yêu cầu thay đổi lựa
+                    chọn liên hệ, chọn không chia sẻ với người khác, cập nhật thông tin cá nhân và sở thích của bạn.</p>
+                <p><b>Độ tuổi</b></p>
+                <p>Nếu bạn chưa đủ tuổi trong phạm vi quyền hạn cư trú, bạn chỉ có thể sử dụng Dịch vụ với sự đồng ý của
+                    cha mẹ hoặc người giám hộ hợp pháp hoặc dưới sự giám sát của họ. Theo yêu cầu của Đạo luật bảo vệ
+                    quyền riêng tư trực tuyến của trẻ em (COPPA), nếu chúng tôi nhận được bất kỳ thông tin nào trực tiếp
+                    từ trẻ em dưới 13 tuổi mà không có sự đồng ý xác minh trước từ cha mẹ của trẻ, Chúng tôi sẽ chỉ sử
+                    dụng thông tin đó để trực tiếp trả lại cho đứa trẻ (hoặc cha mẹ hoặc người giám hộ hợp pháp của nó)
+                    để thông báo cho đứa trẻ rằng nó không thể sử dụng Trang web và sau đó chúng tôi sẽ xóa thông tin
+                    đó.</p>
+
+                <p class="content--wrapper__subtitle">TRUYỀN THÔNG TIẾP THỊ VÀ CHIA SẺ</p>
+                <p>Bạn có thể đề xuất chúng tôi không sử dụng thông tin liên lạc của bạn để liên hệ với bạn về các dịch
+                    vụ, chương trình khuyến mãi, khảo sát và các sự kiện đặc biệt có thể thu hút sự quan tâm của bạn
+                    bằng cách sử dụng thông tin dưới đây để liên hệ với chúng tôi. Bạn cũng có thể chọn không tham gia
+                    bằng cách làm theo các hướng dẫn ở cuối bất kỳ email doanh nghiệp nào bạn có thể nhận được.</p>
+                <p>Xin lưu ý rằng bất kể bạn yêu cầu gì, chúng tôi vẫn có thể sử dụng và chia sẻ một số thông tin nhất
+                    định khi được pháp luật hiện hành cho phép. Ví dụ: bạn có thể không chọn từ chối một số email hoạt
+                    động nhất định, chẳng hạn như email phản ánh mối quan hệ hoặc giao dịch của chúng tôi với bạn hoặc
+                    thông báo quan trọng về các dịch vụ mà chúng tôi cung cấp cho bạn, chẳng hạn như thông báo liên quan
+                    đến dịch vụ (ví dụ: nếu dịch vụ của chúng tôi tạm thời bị đình chỉ để bảo trì).</p>
+                <p>Ngoài ra, nếu bạn tải xuống ứng dụng di động của chúng tôi và bật thông báo đẩy trên thiết bị di động
+                    của bạn, chúng tôi có thể gửi cho bạn thông báo thông qua thông báo đẩy, ví dụ như để liên lạc cập
+                    nhật trạng thái trên Dịch vụ của chúng tôi. Tuy nhiên, bạn có thể chọn vô hiệu hóa các thông báo này
+                    (ngoại trừ thông báo ban đầu được sử dụng để xác minh danh tính của bạn).</p>
+
+                <p class="content--wrapper__subtitle">CÁC LIÊN KẾT VÀ TRANG WEB CỦA BÊN THỨ BA</p>
+                <p>Thông báo về quyền riêng tư này không đề cập đến các quyền riêng tư của bất kỳ bên thứ ba nào và
+                    chúng tôi không chịu trách nhiệm về chúng, bao gồm cả những bên điều hành các trang web được liên
+                    kết đến trang web của chúng tôi. Bao gồm các liên kết trên trang web của chúng tôi không có nghĩa là
+                    chúng tôi hoặc các chi nhánh của chúng tôi chứng thực hoạt động của các trang web được liên kết.</p>
+
+                <p class="content--wrapper__subtitle">THAY ĐỔI CHÍNH SÁCH BẢO MẬT NÀY</p>
+                <p>Chúng tôi có thể thay đổi chính sách bảo mật này bất cứ lúc nào. Chúng tôi khuyến khích bạn kiểm tra
+                    trang này thường xuyên để cập nhật thông tin mới nhất về hoạt động bảo mật của chúng tôi. Nếu chúng
+                    tôi thực hiện bất kỳ thay đổi nào, chúng tôi sẽ thay đổi ngày cập nhật cuối cùng ở trên.</p>
+                <p>Bất kỳ sửa đổi nào đối với Chính sách bảo mật này sẽ có hiệu lực sau khi chúng tôi đăng các điều
+                    khoản mới và/hoặc thực hiện các thay đổi đối với Trang web (hoặc được các điều khác được nêu tại
+                    thời điểm đăng). Trong mọi trường hợp, việc bạn tiếp tục sử dụng Trang web hoặc Dịch vụ sau khi
+                    chúng tôi thay đổi bất kỳ Chính sách bảo mật sửa đổi nào cho thấy bạn chấp nhận các điều khoản của
+                    Chính sách bảo mật sửa đổi đó.</p>
+
+                <p class="content--wrapper__subtitle">NHÂN VIÊN BẢO VỆ DỮ LIỆU</p>
+                <p>Chúng tôi đã bổ nhiệm một nhân viên bảo vệ dữ liệu dựa trên chất lượng chuyên môn luật và thực tiễn
+                    bảo vệ dữ liệu. Nhiệm vụ của nhân viên bảo vệ dữ liệu là đảm bảo rằng chúng tôi luôn tuân thủ các
+                    trách nhiệm của mình theo luật bảo vệ dữ liệu hiện hành.</p>
+                <p>Thông tin liên hệ của nhân viên bảo vệ dữ liệu:</p>
+                <p>Thư điện tử: [Email]</p>
+                <p>Hoặc viết thư cho DPO: [Địa chỉ]</p>
+
+                <p class="content--wrapper__subtitle">LIÊN HỆ VỚI CHÚNG THÔI</p>
+                <p>Chúng tôi hoan nghênh ý kiến hoặc câu hỏi của bạn về Chính sách này và bạn có thể liên hệ với chúng
+                    tôi bằng cách:</p>
+                <p>Thư điện tử: [Email]</p>
+                <p>Hoặc viết thư cho chúng tôi: [Địa chỉ công ty]</p>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
